@@ -1,4 +1,4 @@
-# A tool to monitor the local area network (LAN) "*/24" network using ARP.
+# Extremely simple HTTP server that responds on port 8000 with a hello message.
 
 DOCKERHUB_ID:=ibmosquito
 NAME:="web-hello-python"
